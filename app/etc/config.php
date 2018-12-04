@@ -132,8 +132,7 @@ return [
         'Mageplaza_Core' => 1,
         'Mageplaza_Gdpr' => 1,
         'Temando_Shipping' => 1,
-        'Vertex_Tax' => 1,
-        'Ves_Setup' => 1
+        'Vertex_Tax' => 1
     ],
     'themes' => [
         'frontend/Magento/blank' => [
@@ -169,7 +168,7 @@ return [
             'theme_title' => 'Venustheme - Vigoss',
             'is_featured' => '0',
             'area' => 'frontend',
-            'type' => '0',
+            'type' => '1',
             'code' => 'Venustheme/vigoss'
         ]
     ]
